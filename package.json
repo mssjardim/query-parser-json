@@ -1,0 +1,17 @@
+{
+  "name": "query-parser-json",
+  "version": "1.0.1",
+  "description": "Parser query parameters in Express",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "express",
+    "query",
+    "parse"
+  ],
+  "author": "Marco Jardim - santarelle@gmail.com",
+  "license": "MIT"
+}
